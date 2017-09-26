@@ -18,7 +18,7 @@ Generate buttons with different foods name. Click each button and see the result
 
 ## Deployment
 
-This game is deployed on github. So by this link: https://neginnami.github.io/GifTastic you can access to it.
+This application is deployed on github. So by this link: https://neginnami.github.io/GifTastic you can access to it.
 
 ## Built With
 
