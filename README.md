@@ -1,6 +1,6 @@
 # GifTastic
 
-This project is gif pictures generator application. When you run the program you can see some buttons on the top which have different names of food on. If you click any, application generates 10 paused gif pictures on the page. Also you would be able to see their ratings. They are all made dinamically. You can animate them by clicking on them. To pause them again, click one more time. 
+This project is gif pictures generator application. When you run the program you can see some buttons on the top which have different names of food on. If you click any, application generates 12 paused gif pictures on the page. Also you would be able to see their ratings. They are all made dinamically. You can animate them by clicking on them. To pause them again, click one more time. 
 Also you can generate your own food buttons by entering any food you have in mind then click submit. The button shows up in the button section on top, then if you click on it, it would function as same as the premade buttons.  
 
 ### Getting Started 

@@ -8,19 +8,42 @@
   <link rel="stylesheet" type="text/css" href="assets/css/style.css">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+  <link href="https://fonts.googleapis.com/css?family=Crushed|Exo|Frijole" rel="stylesheet">
   <link rel="stylesheet" type="text/css" href="assets/css/style.css">
+
 </head>
 <body>
-	<div id="buttons_view"></div>
-	<div id="form_section">
-		<h2>Add a food</h2>
-		<form>
-			<input id="foodInput" type="text" name="food_name">
-			<button id="submit_button">Submit</button>
-		</form>
-	</div>
-	<div id="image_view">
-		
+
+	<div class="container">
+		<div class="row">
+			<div class="jumbotron">
+				<h1 class="text-center">Gif Tastic</h1>
+				<h2 class="text-center">Press any button to generate the gifs.</br>
+				Make any food button you want. Then click on them. Enjoy!!</h2>
+			</div>
+		</div>
+	
+		<div class="row">
+			<div class="col-lg-9 col-md-9 col-sm-12 col-xs-12">
+				<div class="image_view">
+					<div class="row" id="row1"></div>	
+					<div class="row" id="row2"></div>
+					<div class="row" id="row3"></div>
+					<div class="row" id="row4"></div>
+				</div>
+			</div>
+
+			<div class="col-lg-3 col-md-3 col-sm-12 col-xs-12">
+				<div id="form_section">
+					<h3>Add a food</h3>
+					<form>
+						<input id="foodInput" type="text" name="food_name">
+						<button id="submit_button" class="btn btn-primary">Submit</button>
+					</form>
+					<div id="buttons_view"></div>
+				</div>
+			</div>
+		</div>
 	</div>
 
 

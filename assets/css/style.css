@@ -1,3 +1,28 @@
 button{
 	margin: 5px;
 }
+
+.jumbotron h1{
+	margin-bottom: 40px;
+	font-family: 'Frijole', cursive;
+}
+.jumbotron{
+	background-color: white;
+}
+.jumbotron h2{
+	font-family: 'Crushed', cursive;
+}
+.image_view{
+	min-height: 800px;
+	margin-bottom: 50px;
+}
+#row1, #row2, #row3, #row4{
+	margin-bottom: 25px;
+}
+#form_section h3{
+	font-family: 'Exo', sans-serif;
+}
+.rating{
+	font-family: 'Exo', sans-serif;
+	font-weight: bold;
+}
